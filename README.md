@@ -11,8 +11,7 @@ I build scalable and maintainable web applications with a focus on frontend exce
 **Databases:** PostgreSQL, MySQL, MongoDB  
 **Tools:** Git, GitHub, Docker, AWS (EC2, S3)  
 **Testing:** Jest, Vitest  
-**Practices:** Agile, Accessibility (WCAG), Performance Optimization
-
+**Practices:** Agile, Accessibility (WCAG), Performance Optimization  
 **Professional Skills:** Communicate Effectively, Self-Directed, Empathetic Collaboration, Customer-Focused Development
 
 ---
