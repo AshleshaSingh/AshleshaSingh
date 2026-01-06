@@ -1,7 +1,8 @@
 # Hi, I'm Ashlesha 👋
-Frontend-focused Full-Stack Engineer | React • Angular • TypeScript • JavaScript • Node.js • Python
+**Frontend-focused Full-Stack Engineer | React • Angular • TypeScript • JavaScript • Node.js • Python**
 
-I build scalable and maintainable web applications with a focus on frontend excellence and API-driven integration. With 5+ years of industry experience and a Master’s degree in Applied Computer Science (USA), I design performant UI systems and contribute to full-stack development using modern tools and frameworks.
+I build scalable, maintainable web applications with a strong focus on **frontend architecture, reusable UI systems, performance, and accessibility**.  
+With **5+ years of industry experience** and a **Master’s degree in Applied Computer Science (USA)**, I work across Angular, React, and API-driven full-stack systems in Agile environments.
 
 ---
 
@@ -17,20 +18,34 @@ I build scalable and maintainable web applications with a focus on frontend exce
 ---
 
 ## 📌 Featured Projects
+### 🔹 AI App with Angular + InfluxDB  
+**Angular • InfluxDB • AI-Driven Dashboards**  
+https://github.com/AshleshaSingh/ai-app-with-angular-influxdb  
+
+Real-time Angular dashboard application featuring:
+- Time-series data visualization using InfluxDB
+- AI-assisted querying and analytics
+- API-driven UI with scalable frontend design
+- Intelligent monitoring and data-driven insights
+
 ### 🚀 NASA Explorer
 **React + Next.js + TypeScript**  
+https://github.com/AshleshaSingh/nasa-explorer-nextjs
 API-driven web app with modular UI components for NASA public data.
 
 ### 📚 Smart Class Planning Tool
 **Python (Graph Algorithms)**  
+https://github.com/AshleshaSingh/smart-class-planner
 Automated course planning system using layered architecture and topological sorting.
 
 ### 🤖 AI Energy Efficiency Classifier
 **Machine Learning + Streamlit**  
+https://github.com/AshleshaSingh/AI-Based-Household-Energy-Efficiency-Classifier
 Decision Tree classifier enhanced with fuzzy logic on the RECS dataset.
 
 ### 📊 Hadoop MapReduce Stock Analysis
 **Big Data Processing**  
+https://github.com/AshleshaSingh/hadoop-stock-analysis
 Distributed data analysis with optimized MapReduce implementation.
 
 ---
